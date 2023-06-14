@@ -7,16 +7,17 @@ This project encompasses a traffic lights system designed and simulated using VH
 This project involves a VHDL design that simulates the fundamental functions of a real traffic lights system. The design can be used to control traffic lights at intersections.
 
 The project generally includes the following features:
--Simulates the sequencing of traffic lights comprising red, yellow, and green signals.
--Manages the light states individually for each traffic direction.
--Allows programmable transition times based on traffic density.
--Includes special conditions that can be controlled by the user, such as manually pausing or initiating traffic flow.
+- Simulates the sequencing of traffic lights comprising red, yellow, and green signals.
+- Manages the light states individually for each traffic direction.
+- Allows programmable transition times based on traffic density.
+- Includes special conditions that can be controlled by the user, such as manually pausing or initiating traffic flow.
 
 # File Structure
 
--T23_TrafficLights.vhd: Main VHDL design file.
--T23_ProcedureInProcessTb: Test bench file.
--Getting Started
+- T23_TrafficLights.vhd: Main VHDL design file.
+- T23_ProcedureInProcessTb: Test bench file.
+
+# Getting Started
 
 To run the simulation and observe the traffic lights system in action, follow these steps:
 
