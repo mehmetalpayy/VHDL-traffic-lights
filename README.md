@@ -37,4 +37,4 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 # Contact
 
-For any inquiries or questions, please feel free to contact with me at iletisimehmetalpay@gmail.com.
+For any inquiries or questions, please feel free to contact me at iletisimehmetalpay@gmail.com.
